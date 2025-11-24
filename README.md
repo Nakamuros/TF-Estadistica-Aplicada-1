@@ -1,4 +1,3 @@
-# TF-Estadistica-Aplicada-1
 # 🥭 Análisis Estadístico: Exportación de Mango Peruano a Norteamérica (2025)
 
 ![Status](https://img.shields.io/badge/Status-Finalizado-success)
